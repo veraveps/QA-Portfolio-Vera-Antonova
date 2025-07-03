@@ -8,8 +8,9 @@
   ✅ API-интеграции  
 
 ## 🛠 Инструменты
-<img src="https://img.icons8.com/color/48/android-studio--v3.png" width="20"> Android Studio  
-<img src="https://img.icons8.com/ios-filled/50/charles-proxy.png" width="20"> Charles Proxy
+### <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="24"> Android Studio
+### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Charles_proxy_icon.png/240px-Charles_proxy_icon.png" width="24"> Charles Proxy
+
 
 ## 📚 Тест-документация
 ### 1. Чек-листы
@@ -22,8 +23,8 @@
 [![Bug Reports](https://img.shields.io/badge/Баг--репорты-Google_Drive-red)](https://drive.google.com/drive/folders/1iTTWw8OGXosr59n1EwgcaRPLqF9raxU_?usp=drive_link)  
 
 ## 🔎 Примеры перехвата трафика
-![Charles](https://drive.google.com/file/d/1U_7ohEaHyGBOwmtTtiXJb-L1R0FIp5ZS/view?usp=drive_link)
-![Charles](https://drive.google.com/file/d/1_lKQ31gAlgwAvFVexnzHqbTyCoxs_r1l/view?usp=drive_link)
+![Charles DEMO 1](https://drive.google.com/file/d/1U_7ohEaHyGBOwmtTtiXJb-L1R0FIp5ZS/view?usp=drive_link)
+![Charles DEMO 2](https://drive.google.com/file/d/1_lKQ31gAlgwAvFVexnzHqbTyCoxs_r1l/view?usp=drive_link)
 
 ## 📊 Метрики
 - Выполнено тестов: 47  
