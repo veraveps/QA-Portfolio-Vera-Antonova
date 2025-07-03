@@ -23,8 +23,8 @@
 [![Bug Reports](https://img.shields.io/badge/Баг--репорты-Google_Drive-red)](https://drive.google.com/drive/folders/1iTTWw8OGXosr59n1EwgcaRPLqF9raxU_?usp=drive_link)  
 
 ## 🔎 Примеры перехвата трафика
-![Charles DEMO 1](https://drive.google.com/file/d/1U_7ohEaHyGBOwmtTtiXJb-L1R0FIp5ZS/view?usp=drive_link)
-![Charles DEMO 2](https://drive.google.com/file/d/1_lKQ31gAlgwAvFVexnzHqbTyCoxs_r1l/view?usp=drive_link)
+![Charles DEMO 1](https://drive.google.com/file/d/1U_7ohEaHyGBOwmtTtiXJb-L1R0FIp5ZS/view?usp=sharing)
+![Charles DEMO 2](https://drive.google.com/file/d/1_lKQ31gAlgwAvFVexnzHqbTyCoxs_r1l/view?usp=sharing)
 
 ## 📊 Метрики
 - Выполнено тестов: 47  
