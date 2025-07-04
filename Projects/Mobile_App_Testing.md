@@ -2,14 +2,14 @@
 
 ## 📱 Объект тестирования
 - **Платформа:** Android
-- **Тип тестирования:**  
+- **Типы тестирования:**  
   ✅ Функциональное  
   ✅ UI/UX  
   ✅ API-интеграции  
 
 ## 🛠 Инструменты
 ### <img src="https://img.icons8.com/color/48/android-studio--v3.png" width="24"> Android Studio
-### <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Charles_proxy_icon.png/240px-Charles_proxy_icon.png" width="24"> Charles Proxy
+### <img src="https://camo.githubusercontent.com/336cc8f5f3d0b45b3c149159207c88944e9909640f5dc25c7116355bc75670d5/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f63343065383135393666333061646638363930656532366161313265383838662f74756d626c725f696e6c696e655f6f62387a32316f6754753172326f6e61755f3430302e706e67" width="24"> Charles Proxy
 
 
 ## 📚 Тест-документация
