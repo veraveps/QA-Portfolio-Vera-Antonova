@@ -1,4 +1,4 @@
-# 👋 Привет! Я Вера Антонова — начинающий QA-инженер
+# 👋 Привет! Я Вера — начинающий QA-инженер
 
 <a href="https://github.com/veraveps/QA-Portfolio-Vera-Antonova">
 </a>
