@@ -73,7 +73,7 @@
 
 ## 🎓 Сертификаты
 [![Stepik Certificate](https://img.shields.io/badge/Stepik-Тестирование_ПО_с_нуля-2CA5E0?logo=stepik)](https://drive.google.com/file/d/1G8Qu6l9QwpovzGzRF9_er6NMt1egj3SU/view?usp=drive_link)  
-[![Rusau Course](https://img.shields.io/badge/Rusau-Тестировщик_с_нуля-lightgrey)](https://rusau.net/) *(ожидается)*
+[![Rusau Course](https://img.shields.io/badge/Rusau-Тестировщик_с_нуля-lightgrey)](https://drive.google.com/file/d/1vIAl2YUcryuiBuMGgeWSJ2y-PHnveHiA/view?usp=sharing)
 
 ---
 
