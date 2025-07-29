@@ -1,4 +1,4 @@
-# 👋 Привет! Я Вера Антонова — начинающий QA-инженер 
+# 👋 Привет! Я Вера Антонова — начинающий тестировщик ПО 
 
 <a href="https://github.com/veraveps/QA-Portfolio-Vera-Antonova">
 </a>
@@ -9,7 +9,7 @@
 ---
 
 ## 📄 Резюме
-[→ Посмотреть мое резюме](https://docs.google.com/document/d/1_jP5fLebufNptWH2MMh5YSGJHVbZdg6oWP_bXODsrDQ/edit?usp=drive_link)
+[→ Посмотреть мое резюме](https://drive.google.com/file/d/1ryYitXWsppM4R-v_r-NvKg1MiB6konHn/view?usp=sharing)
 
 ---
 
